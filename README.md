@@ -1,6 +1,6 @@
 ACO-SCP
 =======
 
-Objective-C implementation of algorithm  Set Covering Problem(ACO) to resolve Set Covering Optimization(SCP).
+Objective-C implementation of algorithm Ant System Optimization(ACO) to solve Set Covering Problem(SCP).
 
 
